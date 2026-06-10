@@ -1,21 +1,41 @@
 # 🐍 Desafios Python
 
-Repositório criado para registrar minha jornada de aprendizado em Python.
+Olá! Eu sou a Gerlany Nogarotto. 👋
 
-## 📚 Sobre
-Sou estudante de Análise e Desenvolvimento de Sistemas e utilizo este espaço para praticar lógica de programação e acompanhar minha evolução como desenvolvedora.
+Este repositório reúne os exercícios e desafios que desenvolvi durante meus estudos de Python. O objetivo é registrar minha evolução na programação e construir um portfólio para futuras oportunidades de estágio e desenvolvimento júnior.
 
-## 🚀 Conteúdos praticados
+## 🎓 Sobre mim
+
+- 📚 Estudante de Análise e Desenvolvimento de Sistemas
+- 💻 Apaixonada por tecnologia e aprendizado contínuo
+- 🚀 Em busca da minha primeira oportunidade na área de TI
+
+## 📌 Conteúdos praticados
+
 - Variáveis e tipos de dados
 - Entrada e saída de dados
 - Operadores matemáticos
-- Estruturas condicionais (if, elif e else)
+- Estruturas condicionais (`if`, `elif` e `else`)
 - Estruturas de repetição
-- Cálculos e desafios de lógica
-- Exercícios práticos em Python
+- Lógica de programação
+- Resolução de desafios em Python
 
-## 🎯 Objetivo
-Desenvolver uma base sólida em programação e construir um portfólio para oportunidades de estágio e desenvolvimento júnior.
+## 🎯 Objetivos
+
+- Fortalecer minha base em programação;
+- Desenvolver disciplina nos estudos;
+- Construir projetos cada vez mais completos;
+- Conquistar uma oportunidade de estágio em desenvolvimento.
+
+## 🛠️ Tecnologias
+
+- Python
+- PyCharm
+- Git
+- GitHub
 
 ---
-Desenvolvido por Gerlany Nogarotto.
+
+✨ "Cada exercício resolvido é um passo mais perto do meu objetivo de me tornar desenvolvedora."
+
+Desenvolvido por **Gerlany Nogarotto**.
