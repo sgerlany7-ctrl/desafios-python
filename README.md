@@ -1,16 +1,21 @@
-# Desafios Python
+# 🐍 Desafios Python
 
-Repositório criado para registrar minha evolução em programação.
+Repositório criado para registrar minha jornada de aprendizado em Python.
 
-Aqui compartilho exercícios e desafios desenvolvidos durante meus estudos em Análise e Desenvolvimento de Sistemas.
+## 📚 Sobre
+Sou estudante de Análise e Desenvolvimento de Sistemas e utilizo este espaço para praticar lógica de programação e acompanhar minha evolução como desenvolvedora.
 
-## Conteúdos praticados
-- Lógica de programação
-- Python
-- if, elif e else
-- Listas
-- Loops (for e while)
+## 🚀 Conteúdos praticados
+- Variáveis e tipos de dados
 - Entrada e saída de dados
-- Resolução de problemas
+- Operadores matemáticos
+- Estruturas condicionais (if, elif e else)
+- Estruturas de repetição
+- Cálculos e desafios de lógica
+- Exercícios práticos em Python
 
+## 🎯 Objetivo
+Desenvolver uma base sólida em programação e construir um portfólio para oportunidades de estágio e desenvolvimento júnior.
+
+---
 Desenvolvido por Gerlany Nogarotto.
